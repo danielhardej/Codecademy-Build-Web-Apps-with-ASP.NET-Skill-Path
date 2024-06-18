@@ -1,0 +1,15 @@
+/Users/danielhardej/Documents/GitHub/Codecademy-Build-Web-Apps-with-ASP.NET-Skill-Path/MagicalInheritance/obj/Debug/net8.0/MagicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhardej/Documents/GitHub/Codecademy-Build-Web-Apps-with-ASP.NET-Skill-Path/MagicalInheritance/obj/Debug/net8.0/MagicalInheritance.AssemblyInfoInputs.cache
+/Users/danielhardej/Documents/GitHub/Codecademy-Build-Web-Apps-with-ASP.NET-Skill-Path/MagicalInheritance/obj/Debug/net8.0/MagicalInheritance.AssemblyInfo.cs
+/Users/danielhardej/Documents/GitHub/Codecademy-Build-Web-Apps-with-ASP.NET-Skill-Path/MagicalInheritance/obj/Debug/net8.0/MagicalInheritance.csproj.CoreCompileInputs.cache
+/Users/danielhardej/Documents/GitHub/Codecademy-Build-Web-Apps-with-ASP.NET-Skill-Path/MagicalInheritance/obj/Debug/net8.0/MagicalInheritance.sourcelink.json
+/Users/danielhardej/Documents/GitHub/Codecademy-Build-Web-Apps-with-ASP.NET-Skill-Path/MagicalInheritance/bin/Debug/net8.0/MagicalInheritance
+/Users/danielhardej/Documents/GitHub/Codecademy-Build-Web-Apps-with-ASP.NET-Skill-Path/MagicalInheritance/bin/Debug/net8.0/MagicalInheritance.deps.json
+/Users/danielhardej/Documents/GitHub/Codecademy-Build-Web-Apps-with-ASP.NET-Skill-Path/MagicalInheritance/bin/Debug/net8.0/MagicalInheritance.runtimeconfig.json
+/Users/danielhardej/Documents/GitHub/Codecademy-Build-Web-Apps-with-ASP.NET-Skill-Path/MagicalInheritance/bin/Debug/net8.0/MagicalInheritance.dll
+/Users/danielhardej/Documents/GitHub/Codecademy-Build-Web-Apps-with-ASP.NET-Skill-Path/MagicalInheritance/bin/Debug/net8.0/MagicalInheritance.pdb
+/Users/danielhardej/Documents/GitHub/Codecademy-Build-Web-Apps-with-ASP.NET-Skill-Path/MagicalInheritance/obj/Debug/net8.0/MagicalInheritance.dll
+/Users/danielhardej/Documents/GitHub/Codecademy-Build-Web-Apps-with-ASP.NET-Skill-Path/MagicalInheritance/obj/Debug/net8.0/refint/MagicalInheritance.dll
+/Users/danielhardej/Documents/GitHub/Codecademy-Build-Web-Apps-with-ASP.NET-Skill-Path/MagicalInheritance/obj/Debug/net8.0/MagicalInheritance.pdb
+/Users/danielhardej/Documents/GitHub/Codecademy-Build-Web-Apps-with-ASP.NET-Skill-Path/MagicalInheritance/obj/Debug/net8.0/MagicalInheritance.genruntimeconfig.cache
+/Users/danielhardej/Documents/GitHub/Codecademy-Build-Web-Apps-with-ASP.NET-Skill-Path/MagicalInheritance/obj/Debug/net8.0/ref/MagicalInheritance.dll
